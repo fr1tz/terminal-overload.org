@@ -2,7 +2,7 @@
 title: Terminal Overload
 description: Terminal Overload the innovative, fast-paced, free and open source multiplayer FPS.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://0.0.0.0:4000/" # the base hostname & protocol for your site
+url: "http://fr1tz.github.io/terminal-overload.org/:4000" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
