@@ -1,0 +1,42 @@
+// main: main.less
+
+.site-header {
+	padding: 13px 0 0 0;
+}
+
+.site-title {
+	width: 100%;
+	background: url(images/sprite.png) no-repeat top center;
+	height: 96px;
+	color: transparent;
+	display: block;
+
+	@media @break1{
+		width: 200px;
+		margin: 0 auto;
+	}
+
+	&:hover {
+		color: transparent;
+		background-color: transparent;
+		background: url(images/sprite.png) no-repeat top center;
+	}
+
+}
+
+.site-title.glow {
+	opacity: 0;
+	left: 0;
+	right: 0;
+	float: right;
+	position: absolute;
+
+	&:hover {
+		opacity: 1;
+	}
+}
+
+.site-nav {
+	text-align: center;
+	padding: 20px 0 18px 0;
+}

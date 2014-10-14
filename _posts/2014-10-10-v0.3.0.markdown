@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Version 0.3.0"
+date:   2014-10-10 22:59:11
+categories: release
+---
+
+- New map: ETH5
+- Prettier GUI
+- Replace re-jumping with instant & charged x-jump.
+- Tweak CAT movement speeds.
+- Simplify disc controls.
+- ETH mode: Each class only has one type of offensive disc.
+- SMG changes: Increase firing rate, decrease damage, shorter range.
+- MGL changes: Remove recoil, decrease firing rate, fire only one projectile.
+- MG changes: Projectiles are affected by gravity.
+- Remove etherboard from class #4 (Minigunner) loadout.
+- Remove SG2 from class #2 loadout.
+- Improve responsiveness of mouse look while in CAT form.
+- New projectile visuals (except discs & grenade).
+- Various minor tweaks and improvements
+- Bugfixes

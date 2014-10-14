@@ -1,0 +1,21 @@
+<header class="site-header">
+
+  <a class="site-title glow" href="{{ site.url }}"></a>
+  <a class="site-title" href="{{ site.url }}">{{ site.title }}</a>
+
+  <nav class="site-nav">
+      <a class="page-link button" href="{{ site.url }}">Home</a>
+      <a class="page-link button" href="http://forum.freegamedev.net/viewforum.php?f=87">Forum</a>
+      <a class="page-link button" href="http://webchat.freenode.net/?channels=terminal-overload">Chat</a>
+      <a class="page-link button" href="https://github.com/fr1tz/terminal-overload">Code</a>
+      <a class="page-link button" href="https://github.com/fr1tz/terminal-overload/wiki">Wiki</a>
+
+      {% for page in site.pages %}
+        {% if page.title %}
+        <a class="page-link button" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+        {% endif %}
+      {% endfor %}
+
+  </nav>
+
+</header>

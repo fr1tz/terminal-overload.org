@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Version 0.3.1"
+date:   2014-10-12 22:59:11
+categories: release
+---
+
+- Use own master server(s). Only fall back on GG master server if they all fail.

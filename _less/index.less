@@ -1,0 +1,112 @@
+// main: main.less
+
+div.post {
+	padding: 0 @magic;
+}
+
+.home {
+
+	.video {
+		background: rgba(0,0,0,0.2);
+		padding: 20px @magic;
+		text-align: center;
+
+		@media @break1 {
+			padding: 10px;
+		}
+
+		p {
+			padding-bottom: 20px;
+
+		}
+
+		iframe {
+			width: 750px;
+			height: 422px;
+			padding: 0;
+
+			@media @break1 {
+				width: 450px;
+				height: 235px;
+			}
+
+			@media @break2 {
+				width: auto;
+				height: auto;
+			}
+
+		}
+
+		.button {
+			font-size: 30px;
+			text-transform: none;
+			line-height: 70px;
+			white-space: nowrap;
+
+			small {
+				font-size: 16px;
+			}
+
+			@media @break2 {
+				margin: 15px 0;
+			}
+
+		}
+
+		.download {
+			display: block;
+			padding: 10px 0;
+
+			a {
+				margin: 0 @magic/4;
+
+				@media @break1 {
+					margin-right: 0;
+				}
+			}
+		}
+
+	}
+
+
+	.releases {
+		margin-bottom: 14px;
+		display: inline-block;
+		opacity: 0.3;
+
+		&:hover {
+			opacity: 1;
+		}
+	}
+
+	.info1, .info2 {
+		font-weight: bold;
+	}
+
+	.info1, .info1 a {
+		color: @red;
+	}
+
+	.info2, .info2 a {
+		color: @red-light;
+	}
+
+
+	.news {
+		padding: @magic/2 @magic;
+
+		@media @break1 {
+			padding: 5px 20px;
+		}
+
+		h1 {
+			font-size: 20px;
+			font-weight: bold;
+		}
+
+		.post-meta {
+			padding-bottom: 25px;
+			opacity: 0.3;
+		}
+	}
+}

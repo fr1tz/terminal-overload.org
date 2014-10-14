@@ -1,0 +1,51 @@
+//out:  ../main.css , compress: false
+
+@font-face {
+  font-family: 'Quantico';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quantico'), local('Quantico-Regular'), url(fonts/Quantico-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'Quantico';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Quantico-Bold'), url(fonts/Quantico-Bold.woff) format('woff');
+}
+@font-face {
+  font-family: 'Quantico';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Quantico-Italic'), url(fonts/Quantico-Italic.woff) format('woff');
+}
+@font-face {
+  font-family: 'Quantico';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Quantico-BoldItalic'), url(fonts/Quantico-BoldItalic.woff) format('woff');
+}
+
+
+@import "reset.less";
+@import "body.less";
+@import "index.less";
+@import "footer.less";
+@import "post.less";
+@import "header.less";
+@import "screenshots.less";
+@import "videos.less";
+
+@red: rgba(218,134,70,1);
+@red-light: rgba(251,255,187,1);
+@red-dark: rgba(52,34,34,1);
+@blue: rgba(123,170,255,1);
+@blue-light: rgba(185,252,255,1);
+@blue-dark: rgba(36,36,59,1);
+@green: rgba(76,135,124,1);
+@green-dark: rgba(19,38,35,1);
+@text: rgba(255,255,255,0.78);
+
+@magic: 50px;
+
+@break1: ~"(max-width: 850px)";
+@break2: ~"(max-width: 450px)";
