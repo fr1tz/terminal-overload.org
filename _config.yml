@@ -6,3 +6,17 @@ url: "http://0.0.0.0:4000/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+navigation:
+ - title: Media
+   url: /media
+ - title: Chat
+   url: /chat
+ - title: Forum
+   url: http://forum.freegamedev.net/viewforum.php?f=87
+ - title: Wiki
+   url: https://github.com/fr1tz/terminal-overload/wiki
+ - title: Code
+   url: https://github.com/fr1tz/terminal-overload
+ - title: $upport
+   url: /support

@@ -35,13 +35,15 @@ a {
 	color: white;
 	transition: all 0.2s ease-out 0s;
 	box-shadow: 0px 0px 0px transparent;
-	text-decoration: underline;
-	font-style: italic;
+	text-decoration: none;
+	/*font-style: italic;*/
 	outline: 0;
+	border-bottom: 1.5px solid rgba(255,255,255,0.15);
 
 	&:hover {
 		color: white;
  		background-color: rgba(255,255,255,0.1);
+		/* border-bottom: transparent;*/
 	}
 
 }
@@ -64,4 +66,18 @@ a.button {
 		background: rgba(255,255,255,1);
 		box-shadow: 0 0 10px rgba(255,255,255,0.3);
 	}
+}
+
+a.button[href$="/support"]{
+	background: @red-light;
+}
+
+a.button.active {
+	background: rgba(255,255,255,1);
+	box-shadow: 0 0 10px rgba(255,255,255,0.3);
+}
+
+.post-header h1 {
+	padding-bottom: 20px;
+	font-size: 25px;
 }
