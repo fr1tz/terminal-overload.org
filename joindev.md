@@ -17,7 +17,7 @@ So any additions, deletions or changes you want to make to the game have to find
 way into that repository. The prefered way of doing that is by sending a 
 [pull request](https://help.github.com/articles/using-pull-requests/) 
 to [fr1tz](https://github.com/fr1tz). So if you don't know how to work using 
-[GitHub](https://github.com/) and don't want to [learn it](https://help.github.com/),
+[GitHub](https://github.com/) and don't want to [learn it](https://help.github.com/categories/bootcamp/),
 you'll have to work with someone who does.
 
 That aside, the first thing you should do is get into contact with fr1tz and the other people
