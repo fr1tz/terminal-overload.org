@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Support the Project
+title: Support The Project
 permalink: /support/
 ---
 
@@ -15,28 +15,42 @@ permalink: /support/
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<div>If you're a member of one or more social media sites, spreading the word
-about the project doesn't take much time but helps a lot:
-  <div style="padding-left: 24px;">
-    <ul>
-      <li>If you're on Twitter:
-        <a href="https://twitter.com/share" class="twitter-share-button" data-url="www.terminal-overload.org" data-text="Terminal Overload is a home-made experimental free and open source multiplayer FPS game. http://www.terminal-overload.org" data-via="_NOTC_">Tweet</a>
-      <li>If you're on Google+: 
-        <div class="g-plus" data-action="share" data-annotation="bubble"></div>
-      </li>    
-      <li>If you're on Facebook: 
-        <div class="fb-share-button" data-layout="button_count" data-href="http://www.terminal-overload.org"></div>      
-      </li>      
-    </ul>
-  </div>
+<h1>Spread The Word</h1>
+<div>If you're a member of the following social media sites, spreading the word
+about the project doesn't take much time but helps a lot:<div>
+<ul>
+  <li>If you're on Twitter:
+    <a href="https://twitter.com/share" class="twitter-share-button" data-url="www.terminal-overload.org" data-text="Terminal Overload is a home-made experimental free and open source multiplayer FPS game. http://www.terminal-overload.org" data-via="_NOTC_">Tweet</a>
+  <li>If you're on Google+: 
+    <div class="g-plus" data-action="share" data-annotation="bubble"></div>
+  </li>    
+  <li>If you're on Facebook: 
+    <div class="fb-share-button" data-layout="button_count" data-href="http://www.terminal-overload.org"></div>      
+  </li>      
+</ul>
+<div>Other places to spread the word are gaming forums (including gaming subreddits) where you're
+actively participating. Making a post about the game in such a place takes up more of your time,
+but has a higher chance of reaching people who might enjoy the game.
 </div>
+<br/>
 
-XXX
-<div>If you have some spare cash:
-  <div style="padding-left: 24px;">
-    <ul>
-      <li><a href="http://aims.wasted.ch">Register your player name</a> (costs 5 bucks)</li>	
-      <li><a href="http://www.patreon.com/fr1tz">Become a patron of TOL's main developer</a> (donate whatever amount you want per month)</li>	
-    </ul>  
-  </div>
+<h1>Run A Game Server</h1>
+<div>Without game servers, players can't play. By running a game server
+you'd be providing an essential service to the player community.
+See the 
+<a href="https://github.com/fr1tz/terminal-overload/wiki/Server-Admin-Guide">
+Server Admin Guide</a> for more info.
 </div>
+<br/>
+
+<h1>Fund Development</h1>
+<div>Ways to help fund continued development of the game:</div>
+<ul>
+  <li><a href="http://aims.wasted.ch">Register your player name</a> (costs 5 bucks)</li>	
+  <li><a href="http://www.patreon.com/fr1tz">Become a patron of TOL's main developer</a> (donate whatever amount you want per month)</li>	
+</ul>  
+<br/>
+
+
+
+
