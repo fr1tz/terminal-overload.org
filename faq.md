@@ -4,11 +4,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-#What to do if servers are empty?
-Check the [MOTD](http://terminal-overload.org/motd) for a list of scheduled play sessions.
-The [Online Server Browser](http://aims.wasted.ch/tolservers/) can alert you when people are playing.
-
-
 #What makes Terminal Overload different from other FPS games?
 Terminal Overload is a continuation of [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch/). Some of the features that make ROTC: Ethernet unique are explained in the [video for the "Resurrect Revenge Of The Cats: Ethernet As Open-Source Project" IndieGoGo campaign](http://youtu.be/SnRJbxadTO4?t=2m24s).
 

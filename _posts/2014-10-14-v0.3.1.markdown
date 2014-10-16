@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Version 0.3.1"
+title:  "Version 0.3.1 released"
 date:   2014-10-12 22:59:11
 categories: release
 ---
+
+Version 0.3.1 has been released.
 
 - Use own master server(s). Only fall back on GG master server if they all fail.

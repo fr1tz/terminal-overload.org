@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "Version 0.3.0"
+title:  "Version 0.3.0 released"
 date:   2014-10-10 22:59:11
 categories: release
 ---
+
+Version 0.3.0 has been released.
 
 - New map: ETH5
 - Prettier GUI
