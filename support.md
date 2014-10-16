@@ -25,7 +25,7 @@ about the project doesn't take much time but helps a lot:
         <div class="g-plus" data-action="share" data-annotation="bubble"></div>
       </li>    
       <li>If you're on Facebook: 
-        <div class="fb-share-button" data-href="http://www.terminal-overload.org"></div>      
+        <div class="fb-share-button" data-layout="button_count" data-href="http://www.terminal-overload.org"></div>      
       </li>      
     </ul>
   </div>
