@@ -9,11 +9,11 @@ markdown: kramdown
 
 navigation:
  - title: Home
-   url: /
+   url: /index.html
  - title: Media
-   url: /media
+   url: /media/
  - title: FAQ
-   url: /faq   
+   url: /faq/ 
  - title: Chat
    url: http://webchat.freenode.net/?channels=terminal-overload
  - title: Forum
