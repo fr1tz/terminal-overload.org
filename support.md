@@ -27,7 +27,7 @@ help give Terminal Overload some exposure:<div>
   <li>If you're on Twitter:
     <a href="https://twitter.com/share" class="twitter-share-button" data-url="www.terminal-overload.org" data-text="Terminal Overload is a home-made experimental free and open source multiplayer FPS game. http://www.terminal-overload.org" data-via="_NOTC_">Tweet</a>
   <li>If you're on Google+: 
-    <div class="g-plus" data-action="share" data-annotation="bubble"></div>
+    <div class="g-plus" data-action="share" data-href="http://www.terminal-overload.org" data-annotation="bubble"></div>
   </li>    
   <li>If you're on Facebook: 
     <div class="fb-share-button" data-layout="button_count" data-href="http://www.terminal-overload.org"></div>      
