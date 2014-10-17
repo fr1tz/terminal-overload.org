@@ -1,0 +1,171 @@
+// main: main.less
+
+html {
+	background: url(/images/background.jpg) no-repeat center fixed;
+	background-size: cover;
+
+	@media @break1 {
+		background: @green;
+	}
+}
+
+body {
+	width: 850px;
+	margin: 0 auto;
+	background: @green;
+	font-family: "Quantico";
+	font-size: 16px;
+	line-height: 1.5;
+	color: @text;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	top: 0;
+
+	@media @break1{
+		width: 100%;
+	}
+
+}
+
+p {
+	padding-bottom: 20px;
+}
+
+img {
+	max-width: 100%;
+}
+
+h1 {
+	font-size: 20px;
+	font-weight: bold;
+	color: white;
+}
+
+h2 {
+	font-size: 20px;
+}
+
+a {
+	color: white;
+	transition: all 0.2s ease-out 0s;
+	box-shadow: 0px 0px 0px transparent;
+	text-decoration: none;
+	/*font-style: italic;*/
+	outline: 0;
+	border-bottom: 1px solid rgba(255,255,255,0.5);
+
+	&:hover {
+		color: white;
+ 		background-color: rgba(255,255,255,0.1);
+		/* border-bottom: transparent;*/
+	}
+
+}
+
+a.button {
+	padding: 10px 0;
+	font-size: 20px;
+	line-height: 50px;
+	padding: 5px 10px;
+	background: rgba(255,255,255,0.5);
+	text-transform: uppercase;
+	text-decoration: none;
+	color: darken(@green, 10%);
+	width: auto;
+	border-radius: 2px;
+	border-width: 0;
+	font-style: normal;
+	font-weight: normal;
+	white-space: nowrap;
+
+	&:hover {
+		background: rgba(255,255,255,1);
+		box-shadow: 0 0 10px rgba(255,255,255,0.3);
+	}
+}
+
+a.button.active {
+	background: rgba(255,255,255,1);
+	box-shadow: 0 0 10px rgba(255,255,255,0.3);
+}
+
+.post-header h1 {
+	padding-bottom: 20px;
+	font-size: 25px;
+}
+
+p ul {
+	margin-left: 12,5px;
+	padding-bottom: 20px;
+}
+
+p ul li {
+
+	margin-left: 13px;
+
+	&:before {
+		content: "";
+		height: 4px;
+		width: 4px;
+		margin: 10px 0 0 -10px;
+		position: absolute;
+		background: @text;
+	}
+}
+
+p ol li {
+	list-style: decimal-leading-zero;
+}
+
+
+
+.page-content {
+	background: @green;
+}
+
+.sublinks {
+	background: darken(@green,10%);
+	position: relative;
+	margin: 0 -50px 50px;
+	padding: 0 50px;
+	font-size: 12px;
+	clear: both;
+	float: left;
+	width: 100%;
+  text-align: center;
+
+	li {
+		float: left;
+		padding: 10px 25px 10px 0;
+		margin: 0;
+		list-style: none;
+		white-space: nowrap;
+
+		a {
+
+			font-weight: normal;
+
+			&:hover {
+				background: none;
+				color: darken(@text, 20%);
+			}
+
+			&:before {
+				content: "#";
+				opacity: 0.6;
+			}
+		}
+
+		&:before {background: none;}
+
+	}
+
+	a {
+		border: 0;
+		font-weight: normal
+	}
+
+}

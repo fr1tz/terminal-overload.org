@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Support the Project
-permalink: /support/
+permalink: /test/
 ---
 
-<h1 style="width: 100%; text-align: center; margin-bottom: 24px">
-Support the Project
-</h1>
+* [Spread the Word](#spreadtheword)
+* [Run TOL Server](#runserver)
+* [Register Nick](#registernick)
+* [Fund Developers](#funddev)
 
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>      
 <script src="https://apis.google.com/js/platform.js" async defer></script>
@@ -19,10 +20,9 @@ Support the Project
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<a name="spreadtheword"></a>
-<h1>Spread The Word</h1>
-<div>If you're a member of the following social media sites, you can
-help give Terminal Overload some exposure:<div>
+<a name="spreadtheword"></a><h1>Spread The Word</h1>
+<div>If you're a member of the following social media sites, spreading the word
+about the project doesn't take much time but helps a lot:<div>
 <ul>
   <li>If you're on Twitter:
     <a href="https://twitter.com/share" class="twitter-share-button" data-url="www.terminal-overload.org" data-text="Terminal Overload is a home-made experimental free and open source multiplayer FPS game. http://www.terminal-overload.org" data-via="_NOTC_">Tweet</a>
@@ -33,14 +33,13 @@ help give Terminal Overload some exposure:<div>
     <div class="fb-share-button" data-layout="button_count" data-href="http://www.terminal-overload.org"></div>      
   </li>      
 </ul>
-<div>Other places to spread the word are gaming and/or open source forums (including subreddits) where you're
+<div>Other places to spread the word are gaming forums (including gaming subreddits) where you're
 actively participating. Making a post about the game in such a place takes up more of your time,
 but has a higher chance of reaching people who might enjoy the game.
 </div>
 <br/>
 
-<a name="runserver"></a>
-<h1>Run a Server</h1>
+<a name="runserver"></a><h1>Run TOL Server</h1>
 <div>Without game servers, players can't play. By running a game server
 you'd be providing an essential service to the player community.
 See the 
@@ -49,17 +48,21 @@ Server Admin Guide</a> for more info.
 </div>
 <br/>
 
-<a name="registernick"></a><h1>Register your Player Name ($)</h1>
-<div>Terminal Overload uses the <a href="http://aims.wasted.ch">AIMS Player Database</a>
-to authenticate players. Right now the only advantages of registering your player name
-are avoiding being impersonated and getting rid of the "[P]" in front
-of the name of unauthenticated players, but in the future, registered players
-will also have access to neat (purely cosmetic) customization options.
-<a href="http://aims.wasted.ch">Getting an entry in the AIMS Player Database</a>
-costs 5 bucks and benefits Terminal Overload because AIMS is run by TOL's main developer.
-</div>
+<a name="registernick"></a><h1>Register Nick</h1>
+<div>Ways to help fund continued development of the game:</div>
+<ul>
+  <li><a href="http://aims.wasted.ch">Register your player name</a> (costs 5 bucks)</li>	
+  <li><a href="http://www.patreon.com/fr1tz">Become a patron of TOL's main developer</a> (donate whatever amount you want per month)</li>	
+</ul>  
 <br/>
 
+<a name="funddev"></a><h1>Fund Developers</h1>
+<div>Ways to help fund continued development of the game:</div>
+<ul>
+  <li><a href="http://aims.wasted.ch">Register your player name</a> (costs 5 bucks)</li>	
+  <li><a href="http://www.patreon.com/fr1tz">Become a patron of TOL's main developer</a> (donate whatever amount you want per month)</li>	
+</ul>  
+<br/>
 
 
 

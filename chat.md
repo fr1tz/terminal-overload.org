@@ -4,4 +4,6 @@ title: Chat
 permalink: /chat/
 ---
 
-<iframe src="http://webchat.freenode.net?randomnick=1&channels=%23terminal-overload&uio=MTA9dHJ1ZSYxMT0xNjQd9" width="100%" height="800"></iframe>
+[> open in separate window](https://kiwiirc.com/client/irc.freenode.net/#terminal-overload)
+
+<iframe src="https://kiwiirc.com/client/irc.freenode.net/#terminal-overload" style="border:0; width: 100%; height:600px; margin: 0 auto;">please wait for the iframe to load...</iframe>

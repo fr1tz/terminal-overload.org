@@ -1,8 +1,8 @@
 # Site settings
 title: Terminal Overload
-description: Terminal Overload the innovative, fast-paced, free and open source multiplayer FPS.
-baseurl: "/terminal-overload.org/" # the subpath of your site, e.g. /blog/
-url: "http://fr1tz.github.io" # the base hostname & protocol for your site
+description: Terminal Overload is a home-made experimental free and open source multiplayer FPS game.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://0.0.0.0:4000" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
@@ -13,13 +13,8 @@ navigation:
  - title: Media
    url: /media/
  - title: FAQ
-   url: /faq/ 
+   url: /faq/       
  - title: Chat
-   url: http://webchat.freenode.net/?channels=terminal-overload
+   url: /chat/
  - title: Forum
-   url: http://forum.freegamedev.net/viewforum.php?f=87
- - title: Wiki
-   url: https://github.com/fr1tz/terminal-overload/wiki
- - title: Code
-   url: https://github.com/fr1tz/terminal-overload
-
+   url: /forum/
