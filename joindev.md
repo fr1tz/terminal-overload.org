@@ -16,7 +16,7 @@ Internet in view of the public.
 
 So since there's no rigid formal process used to develop Terminal Overload,
 it boils down to this: Releases are made from the contents of
-[fr1tz' terminal-overload git repository on GitHub](https://github.com/fr1tz/terminal-overload).
+[github.com/fr1tz/terminal-overload](https://github.com/fr1tz/terminal-overload).
 So any additions, deletions or changes you want to make to the game have to find their
 way into that repository. The prefered way of doing that is by sending a 
 [pull request](https://help.github.com/articles/using-pull-requests/) 
@@ -31,5 +31,6 @@ The [Chat](/chat) and the
 The chat is probably the better place to make first contact: Just join the chat
 and say something like "hey fr1tz, I'd be interested in joining development" and
 go from there.
-Keep in mind that the chat is an IRC channel (#terminal-overload on irc.freenode.net), 
+Keep in mind that the chat is an [IRC channel](http://en.wikipedia.org/wiki/Internet_Relay_Chat)
+(#terminal-overload on irc.freenode.net), 
 meaning it can take hours until you get a response, so be prepared to stick around. 
