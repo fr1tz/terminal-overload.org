@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Finding Players
+title: Find Players
 permalink: /findplayers/
 ---
 
-* The [Online Server Browser](http://aims.wasted.ch/tolservers/) can alert you when people are playing.
-* Check the [Message Of The Day](/motd) for a list of scheduled play sessions.
-* Join the [Chat](http://webchat.freenode.net/?channels=terminal-overload) and try to get a game going.
+<h1 style="width: 100%; text-align: center; margin-bottom: 24px">
+Find Players
+</h1>
+
+* The [Online Server Browser](/serverbrowser) can alert you when people are playing.
+* Check the [Play Sessions](/playsessions) sub-forum.
+* Use the [Chat](/chat) to organize a spontaneous play session.

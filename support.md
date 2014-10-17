@@ -21,7 +21,7 @@ Support the Project
 
 <a name="spreadtheword"></a>
 <h1>Spread The Word</h1>
-<div>If you're a member of the following social media sites, you can
+<div>If you're a member of social media sites, you can
 help give Terminal Overload some exposure:<div>
 <ul>
   <li>If you're on Twitter:
@@ -35,7 +35,7 @@ help give Terminal Overload some exposure:<div>
 </ul>
 <div>Other places to spread the word are gaming and/or open source forums (including subreddits) where you're
 actively participating. Making a post about the game in such a place takes up more of your time,
-but has a higher chance of reaching people who might enjoy the game.
+but has a high chance of reaching people who might enjoy the game.
 </div>
 <br/>
 

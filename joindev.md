@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Joining Development
+title: Join Development
 permalink: /joindev/
 ---
+
+<h1 style="width: 100%; text-align: center; margin-bottom: 24px">
+Join Development
+</h1>
 
 Unusual for an FPS game, Terminal Overload is developed using 
 the ["Bazaar" model](http://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar) of 
@@ -20,10 +24,10 @@ to [fr1tz](https://github.com/fr1tz). So if you don't know how to work using
 [GitHub](https://github.com/) and don't want to [learn it](https://help.github.com/categories/bootcamp/),
 you'll have to work with someone who does.
 
-That aside, the first thing you should do is get into contact with fr1tz and the other people
+That aside, the first thing you should do anyway is getting into contact with fr1tz and the other people
 working on the project. There are two places where TOL developers communicate:
-The [Chat](http://webchat.freenode.net/?channels=terminal-overload) and the
-[Forum](http://forum.freegamedev.net/viewforum.php?f=87).
+The [Chat](/chat) and the
+[Forum](/forum).
 The chat is probably the better place to make first contact: Just join the chat
 and say something like "hey fr1tz, I'd be interested in joining development" and
 go from there.

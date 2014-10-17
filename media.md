@@ -4,11 +4,6 @@ title: Media
 permalink: /media/
 ---
 
-* [Videos](#videos)
-* [ROTC Videos](#rotcvideos)
-* [Screenshots](#screenshots)
-
-
 # <a name="videos"></a> Videos  
 
 Here are some ingame impressions of TOL:
