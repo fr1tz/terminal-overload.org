@@ -5,7 +5,7 @@ permalink: /serverbrowser/
 ---
 
 <h1 style="width: 100%; text-align: center; margin-bottom: 24px">
-Online Server Browser w/ Alert feature
+Online Server Browser / Player Alerts
 </h1>
 
 [> open in separate window](http://aims.wasted.ch/tolservers)  
