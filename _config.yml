@@ -10,11 +10,12 @@ markdown: kramdown
 navigation:
  - title: Home
    url: /index.html
+ - title: Player Guide
+   url: /guide/   
+ - title: Community
+   url: /community/       
  - title: Media
    url: /media/
  - title: FAQ
-   url: /faq/       
- - title: Chat
-   url: /chat/
- - title: Forum
-   url: /forum/
+   url: /faq/
+   

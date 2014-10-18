@@ -1,7 +1,7 @@
 // main: main.less
 
 html {
-	background: url(/images/background.jpg) no-repeat center fixed;
+	background: url(images/background.jpg) no-repeat center fixed;
 	background-size: cover;
 
 	@media @break1 {
@@ -39,13 +39,36 @@ img {
 }
 
 h1 {
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	padding: 40px 0 10px 0;
+}
+
+h2 {
 	font-size: 20px;
 	font-weight: bold;
 	color: white;
 }
 
-h2 {
+h3 {
 	font-size: 20px;
+}
+
+em {
+	font-style: italic;
+}
+
+strong {
+	font-weight: bold;
+}
+
+code {
+	font-family: mono;
+	color: @green;
+	background: @text;
+	padding: 2px 4px;
+	font-size: 14px;
 }
 
 a {
@@ -55,7 +78,7 @@ a {
 	text-decoration: none;
 	/*font-style: italic;*/
 	outline: 0;
-	border-bottom: 1px solid rgba(255,255,255,0.5);
+	border-bottom: 1px dashed rgba(255,255,255,0.5);
 
 	&:hover {
 		color: white;
@@ -97,12 +120,20 @@ a.button.active {
 	font-size: 25px;
 }
 
-p ul {
-	margin-left: 12,5px;
+.post-content ol {
+	margin-left: 10px;
 	padding-bottom: 20px;
 }
 
-p ul li {
+.post-content ul {
+	padding-bottom: 20px;
+}
+
+.post-content ol li {
+	margin-left: 12.5px;
+}
+
+.post-content ul li {
 
 	margin-left: 13px;
 
@@ -116,26 +147,23 @@ p ul li {
 	}
 }
 
-p ol li {
-	list-style: decimal-leading-zero;
+.post-content ol li {
+	list-style: decimal;
 }
-
-
 
 .page-content {
 	background: @green;
 }
 
-.sublinks {
+.post > .post-content ul:first-child {
 	background: darken(@green,10%);
 	position: relative;
-	margin: 0 -50px 50px;
+	margin: 0 -50px 30px;
 	padding: 0 50px;
-	font-size: 12px;
+	font-size: 16px;
 	clear: both;
 	float: left;
 	width: 100%;
-  text-align: center;
 
 	li {
 		float: left;
@@ -166,6 +194,32 @@ p ol li {
 	a {
 		border: 0;
 		font-weight: normal
+	}
+
+}
+
+
+h1 a[href^="http://aims.wasted.ch/tolservers"],
+h1 a[href^="https://kiwiirc.com"],
+h1 a[href^="http://forum.freegamedev.net"] {
+	margin-left: 10px;
+	padding-right: 30px;
+	font-size: 20px;
+	border: 0;
+	opacity: 0.5;
+
+	&:after {
+		content: "";
+		height: 25px;
+		width: 25px;
+		margin: 4px 0 0 5px;
+		position: absolute;
+		background: url(images/sprite.png) 0px -135px no-repeat;
+	}
+
+	&:hover {
+		opacity: 1;
+		background: none;
 	}
 
 }

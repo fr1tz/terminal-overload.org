@@ -4,7 +4,7 @@ title: Support the Project
 permalink: /support/
 ---
 
-<h1 style="width: 100%; text-align: center; margin-bottom: 24px">
+<h1 style="width: 100%; text-align: center;">
 Support the Project
 </h1>
 
@@ -19,37 +19,37 @@ Support the Project
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-<a name="spreadtheword"></a>
-<h1>Spread The Word</h1>
+## <a name="spreadtheword"></a> Spread the Word
 <div>If you're a member of social media sites, you can
-help give Terminal Overload some exposure:<div>
-<ul>
-  <li>If you're on Twitter:
-    <a href="https://twitter.com/share" class="twitter-share-button" data-url="www.terminal-overload.org" data-text="Terminal Overload is a home-made experimental free and open source multiplayer FPS game. http://www.terminal-overload.org" data-via="_NOTC_">Tweet</a>
-  <li>If you're on Google+: 
-    <div class="g-plus" data-action="share" data-href="http://www.terminal-overload.org" data-annotation="bubble"></div>
-  </li>    
-  <li>If you're on Facebook: 
-    <div class="fb-share-button" data-layout="button_count" data-href="http://www.terminal-overload.org"></div>      
-  </li>      
-</ul>
-<div>Other places to spread the word are gaming and/or open source forums (including subreddits) where you're
+help give Terminal Overload some exposure:
+If you're on Twitter:
+<a href="https://twitter.com/share" class="twitter-share-button" data-url="www.terminal-overload.org" data-text="Terminal Overload is a home-made experimental free and open source multiplayer FPS game. http://www.terminal-overload.org" data-via="_NOTC_">Tweet</a>
+<br/>
+If you're on Google+: 
+<div class="g-plus" data-action="share" data-href="http://www.terminal-overload.org" data-annotation="bubble"></div>
+<br/>    
+If you're on Facebook: 
+<div class="fb-share-button" data-layout="button_count" data-href="http://www.terminal-overload.org"></div>      
+<br/>      
+Other places to spread the word are gaming and/or open source forums (including subreddits) where you're
 actively participating. Making a post about the game in such a place takes up more of your time,
 but has a high chance of reaching people who might enjoy the game.
 </div>
 <br/>
 
-<a name="runserver"></a>
-<h1>Run a Server</h1>
-<div>Without game servers, players can't play. By running a game server
-you'd be providing an essential service to the player community.
-See the 
+## <a name="runserver"></a> Run a TOL Server
+<div>Running a game server would provide an essential service to the player
+community. However there is no 
 <a href="https://github.com/fr1tz/terminal-overload/wiki/Server-Admin-Guide">
-Server Admin Guide</a> for more info.
+Server Admin Guide</a>
+yet. Get <a href="/community">in touch with us</a> to get directions. If you succeed,
+don't hesitate to add your experiences to the
+<a href="https://github.com/fr1tz/terminal-overload/wiki/Server-Admin-Guide">
+Server Admin Guide</a>.
 </div>
 <br/>
 
-<a name="registernick"></a><h1>Register your Player Name ($)</h1>
+## <a name="registernick"></a>Register Your Player Name ($)
 <div>Terminal Overload uses the <a href="http://aims.wasted.ch">AIMS Player Database</a>
 to authenticate players. Right now the only advantages of registering your player name
 are avoiding being impersonated and getting rid of the "[P]" in front
@@ -60,7 +60,7 @@ will also have access to neat (purely cosmetic) customization options.<br/>
 <a href="https://github.com/fr1tz/terminal-overload/graphs/contributors">
 main developer</a>.
 </div>
-<br/>
+
 
 
 

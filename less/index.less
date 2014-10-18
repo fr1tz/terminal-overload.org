@@ -46,7 +46,7 @@ div.post {
 			}
 
 		}
-		
+
 		.download {
 			display: block;
 			padding: 10px 0;
@@ -62,7 +62,6 @@ div.post {
 
 	}
 
-
 	.releases {
 		margin-bottom: 14px;
 		display: inline-block;
@@ -73,16 +72,39 @@ div.post {
 		}
 	}
 
-	.info1, .info2 {
-		font-weight: bold;
-	}
-
-	.info1, .info1 a {
-		color: @red;
-	}
-
-	.info2, .info2 a {
+	.info1 {
+		margin: 5px 100px;
+		border: 2px solid @red-light;
 		color: @red-light;
+		position: relative;
+		padding: 0 0 5px 40px;
+
+		a {
+			color: @red-light;
+			border-color: @red-light;
+		}
+
+		&:before {
+			position: absolute;
+			content: "!";
+			left: 16px;
+			top: 0x;
+			font-size: 30px;
+		}
+	}
+
+	.info2 {
+		margin: 0 105px 20px;
+		border: 2px solid @blue-light;
+		border-top: 0;
+		color: @blue-light;
+		padding: 0 0 5px 0;
+
+		a {
+			color: @blue-light;
+			border-color: @blue-light;
+		}
+
 	}
 
 
@@ -93,9 +115,19 @@ div.post {
 			padding: 5px 20px;
 		}
 
+		article {
+			padding-bottom: 20px;
+		}
+
 		h1 {
 			font-size: 20px;
 			font-weight: bold;
+			padding-top: 20px;
+		}
+
+		h2 {
+
+			font-weight: normal;
 		}
 
 		.post-meta {

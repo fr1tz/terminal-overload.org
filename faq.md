@@ -4,6 +4,25 @@ title: FAQ
 permalink: /faq/
 ---
 
+#What to do if servers are empty?
+Most of the time the servers will be empty because the player base of the game
+is still very small. Fortunately, there are a number of ways to get a game
+going. 
+[Learn more](/guide#findplayers)
+
+#How can I support the project?
+Terminal Overload is still <a href="https://github.com/fr1tz/terminal-overload/graphs/contributors">
+mostly a one-man project</a> and needs all the help it can get.
+If you like the project, there are many things you can do to support it.
+Some of them require nothing more than just a few seconds of your time.
+[Learn more](/support)   
+
+#How can I join development?
+Terminal Overload uses an open-source development model. 
+hat means that everybody can get involved in shaping the future of the game. 
+going. 
+[Learn more](/joindev)
+    
 #What makes Terminal Overload different from other FPS games?
 Terminal Overload is a continuation of [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch/). Some of the features that make ROTC: Ethernet unique are explained in the [video for the "Resurrect Revenge Of The Cats: Ethernet As Open-Source Project" IndieGoGo campaign](http://youtu.be/SnRJbxadTO4?t=2m24s).
 

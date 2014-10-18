@@ -4,7 +4,7 @@ title: Join Development
 permalink: /joindev/
 ---
 
-<h1 style="width: 100%; text-align: center; margin-bottom: 24px">
+<h1 style="width: 100%; text-align: center;">
 Join Development
 </h1>
 
@@ -26,8 +26,8 @@ you'll have to work with someone who does.
 
 That aside, the first thing you should do anyway is getting into contact with fr1tz and the other people
 working on the project. There are two places where TOL developers communicate:
-The [Chat](/chat) and the
-[Forum](/forum).
+The [Chat](/community#chat) and the
+[Forum](/community#forum).
 The chat is probably the better place to make first contact: Just join the chat
 and say something like "hey fr1tz, I'd be interested in joining development" and
 go from there.
