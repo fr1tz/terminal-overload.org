@@ -22,6 +22,7 @@ Support the Project
 ## <a name="spreadtheword"></a> Spread the Word
 <div>If you're a member of social media sites, you can
 help give Terminal Overload some exposure:
+<br/>
 If you're on Twitter:
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="www.terminal-overload.org" data-text="Terminal Overload is a home-made experimental free and open source multiplayer FPS game. http://www.terminal-overload.org" data-via="_NOTC_">Tweet</a>
 <br/>
