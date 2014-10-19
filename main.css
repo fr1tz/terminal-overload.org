@@ -489,6 +489,12 @@ footer .icon:before {
   height: 20px;
   background: url(images/sprite.png) bottom left no-repeat;
 }
+footer .indiedb:before {
+  background-position: -180px bottom;
+}
+footer .facebook:before {
+  background-position: -140px bottom;
+}
 footer .twitter:before {
   background-position: -20px bottom;
 }
