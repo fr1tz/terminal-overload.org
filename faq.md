@@ -17,11 +17,10 @@ If you like the project, there are many things you can do to support it.
 Some of them require nothing more than just a few seconds of your time.
 [Learn more](/support)   
 
-#How can I join development?
+#How can I get involved in the project?
 Terminal Overload uses an open-source development model. 
-hat means that everybody can get involved in shaping the future of the game. 
-going. 
-[Learn more](/joindev)
+That means that everybody can get involved in shaping the future of the game. 
+[Learn more](/contributing)
     
 #What makes Terminal Overload different from other FPS games?
 Terminal Overload is a continuation of [Revenge Of The Cats: Ethernet](http://ethernet.wasted.ch/). Some of the features that make ROTC: Ethernet unique are explained in the [video for the "Resurrect Revenge Of The Cats: Ethernet As Open-Source Project" IndieGoGo campaign](http://youtu.be/SnRJbxadTO4?t=2m24s).

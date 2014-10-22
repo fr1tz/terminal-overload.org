@@ -16,6 +16,8 @@ navigation:
    url: /community/       
  - title: Media
    url: /media/
+ - title: Contributing
+   url: /contributing/   
  - title: FAQ
-   url: /faq/
+   url: /faq/   
    

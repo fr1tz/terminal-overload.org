@@ -50,17 +50,7 @@ Server Admin Guide</a>.
 </div>
 <br/>
 
-## <a name="registernick"></a>Register Your Player Name ($)
-<div>Terminal Overload uses the <a href="http://aims.wasted.ch">AIMS Player Database</a>
-to authenticate players. Right now the only advantages of registering your player name
-are avoiding being impersonated and getting rid of the "[P]" in front
-of the name of unauthenticated players, but in the future, registered players
-will also have access to neat (purely cosmetic) customization options.<br/>
-<a href="http://aims.wasted.ch">Getting an entry in the AIMS Player Database</a>
-<b>costs $5</b> and benefits <a href="https://github.com/fr1tz">fr1tz</a>, TOL's
-<a href="https://github.com/fr1tz/terminal-overload/graphs/contributors">
-main developer</a>.
-</div>
+
 
 
 
