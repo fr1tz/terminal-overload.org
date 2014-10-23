@@ -6,7 +6,7 @@ permalink: /contributing/
 
 * [Intro](#intro)
 * [Making Contact](#contact)
-* [Ways to Contribute](#ways)
+* [Ways to Contribute](#tasks)
 
 # <a name="intro"></a> Intro
 Unusual for an FPS game, Terminal Overload is developed using 
@@ -29,7 +29,7 @@ Keep in mind that the chat is an [IRC channel](http://en.wikipedia.org/wiki/Inte
 (#terminal-overload on irc.freenode.net), 
 meaning it can take hours until you get a response, so be prepared to stick around. 
 
-# <a name="openissues"></a> Ways to Contribute
+# <a name="tasks"></a> Ways to Contribute
 To get an idea of the many ways you can participate in the project, take a look
 at TOL's [Issue Tracker](https://github.com/fr1tz/terminal-overload/issues).
 Here are some example filters:
@@ -37,6 +37,7 @@ Here are some example filters:
 * [Tasks that don't require programming skills](https://github.com/fr1tz/terminal-overload/issues?q=is%3Aopen+is%3Aissue+label%3Anocode)
 * [Documentation tasks](https://github.com/fr1tz/terminal-overload/issues?q=is%3Aopen+is%3Aissue+label%3Adocumentation)
 * [Bite-sized tasks](https://github.com/fr1tz/terminal-overload/issues?q=is%3Aopen+is%3Aissue+label%3Abitesized)
+* [Tasks that require using Blender](https://github.com/fr1tz/terminal-overload/issues?q=is%3Aopen+is%3Aissue+label%3Ablender)
 * [Tasks that require using TorqueScript](https://github.com/fr1tz/terminal-overload/issues?q=is%3Aopen+is%3Aissue+label%3Atorquescript)
 * [Tasks that require using c++](https://github.com/fr1tz/terminal-overload/issues?q=is%3Aopen+is%3Aissue+label%3Ac%2B%2B)
 
