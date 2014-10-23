@@ -10,7 +10,7 @@ permalink: /guide/
 
 # <a name="tutorials"></a> Tutorials
 Can you imagine? There are no tutorials yet.  
-If you are as mad about that as we are, [get in touch with us](/community) or get your [hands dirty](/joindev) right away.
+If you are as mad about that as we are, [get in touch with us](/community) or get your [hands dirty](/contributing) right away.
 
 # <a name="findplayers"></a> Finding Players
 * The [Online Server Browser](/serverbrowser) plays a sound when players are playing. 
