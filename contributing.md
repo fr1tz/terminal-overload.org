@@ -7,6 +7,7 @@ permalink: /contributing/
 * [Intro](#intro)
 * [Making Contact](#contact)
 * [Ways to Contribute](#tasks)
+* [Contributors' Plans](#plans)
 
 # <a name="intro"></a> Intro
 Unusual for an FPS game, Terminal Overload is developed using 
@@ -44,3 +45,9 @@ Here are some example filters:
 Keep in mind that those issues don't cover everything that needs or could be done.
 A great way to participate is finding issues that need to be addressed,
 regardless of whether you're capable of working on them yourself.
+
+# <a name="plans"></a> Contributors' Plans
+Contributors are encouraged to maintain a personal TODO list. Having those lists
+publicly available makes it easy to see what people are up to:
+[Contributors' plans (wiki)](https://github.com/fr1tz/terminal-overload/wiki/Contributors%27-plans)
+
