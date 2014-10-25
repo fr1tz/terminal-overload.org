@@ -47,7 +47,7 @@ A great way to participate is finding issues that need to be addressed,
 regardless of whether you're capable of working on them yourself.
 
 # <a name="plans"></a> Contributors' Plans
-Contributors are encouraged to maintain a personal TODO list. Having those lists
+People participating in the project are encouraged to maintain a personal TODO list. Having those lists
 publicly available makes it easy to see what people are up to:
 [Contributors' plans (wiki)](https://github.com/fr1tz/terminal-overload/wiki/Contributors%27-plans)
 
