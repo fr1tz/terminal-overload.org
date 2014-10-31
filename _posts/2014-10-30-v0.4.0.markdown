@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Version 0.4.0 released"
+date:   2014-10-30 22:59:11
+categories: release
+---
+
+Version 0.4.0 has been released.
+
+- Update to Torque3D 3.6.1
+- Primitive demo recording playback
+- Tweak B.O.U.N.C.E.: Revert momentum and apply strong impulse.
+- Various tweaks and improvements
+- Bugfixes
