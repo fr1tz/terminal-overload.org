@@ -489,6 +489,9 @@ footer .icon:before {
   height: 20px;
   background: url(images/sprite.png) bottom left no-repeat;
 }
+footer .reddit:before {
+  background-position: -200px bottom;
+}
 footer .indiedb:before {
   background-position: -180px bottom;
 }
