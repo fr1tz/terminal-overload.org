@@ -15,7 +15,7 @@ footer {
       margin-left: 10px;
   }
 
-  .column {
+  div {
     width: 150px;
     float: left;
     margin: 0 @magic @magic 0;
@@ -25,8 +25,15 @@ footer {
     }
 
     @media @break1 {
+      &:nth-of-type(2n+1) {
+        clear: both;
+      }
+    }
+
+    @media @break2 {
       width: 100%;
     }
+
   }
 
   .icon {
@@ -43,22 +50,14 @@ footer {
     }
   }
 
-  .reddit:before    {background-position: -200px bottom;}  
-  .indiedb:before   {background-position: -180px bottom;}  
-  .facebook:before  {background-position: -140px bottom;}
   .twitter:before   {background-position: -20px bottom;}
   .diaspora:before  {background-position: -40px bottom;}
   .pumpio:before    {background-position: -60px bottom;}
   .friendica:before {background-position: -80px bottom;}
   .gnusocial:before {background-position: -100px bottom;}
   .github:before    {background-position: -120px bottom;}
-
-  .joinus h1, .joinus a {
-    color: @blue-light;
-  }
-
-  .support h1, .support a {
-    color: @red-light;
-  }
+  .facebook:before  {background-position: -140px bottom;}
+  .indiedb:before   {background-position: -180px bottom;}
+  .reddit:before    {background-position: -200px bottom;}
 
 }

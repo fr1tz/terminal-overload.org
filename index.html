@@ -1,42 +1,29 @@
 ---
 layout: default
+version: "0.5.0"
 ---
-
 <div class="home">
 
   <section class="video">
-    <p>Terminal Overload (TOL) is a home-made experimental 
-    <a href="https://github.com/fr1tz/terminal-overload/blob/master/COPYING">
-    free and open source</a> multiplayer FPS game.<br>
-    It is the continuation of <a href="http://youtu.be/SnRJbxadTO4?t=2m24s">
-    ROTC: Ethernet</a> and is currently in an early stage of development.
-    </p>
+    <p>Terminal Overload is a home-made experimental <a href="https://github.com/fr1tz/terminal-overload/blob/master/COPYING">free and open source</a> multiplayer FPS game.</p>
 
-    <iframe src="//www.youtube.com/embed/yPNLQbaG5qE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+    <iframe src="//www.youtube-nocookie.com/embed/yPNLQbaG5qE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
     <div class="download">
-      <span class="releases">
-        Latest public release is version 0.4.0
-        <a href="http://contracode.terminal-overload.org">
-        Browse all releases</a>
-      </span><br/> 
-      <a class="button" href="http://files.wasted.ch/software/terminal-overload/terminal-overload-0.4.0-linux32.tar.gz">GNU/Linux <small>32bit</small></a>
-      <a class="button" href="http://files.wasted.ch/software/terminal-overload/terminal-overload-0.4.0-win32.zip">Windows <small>32bit</small></a>
-      <a class="button" href="https://github.com/fr1tz/terminal-overload/archive/v0.4.0.tar.gz">Source</a>
-      <br/><a href="/install">Need help installing?</a>
-    </div>  
-
-    <div class="info1">
-      This project needs your help to keep going.<br/>
-      Please consider <a href="/contributing">becoming an active contributor</a>
-      or helping its main developer (and currently only programmer) to return to
-      working full-time on TOL through 
-      <a href="https://gratipay.com/fr1tz">gratipay</a> or
-      <a href="http://www.patreon.com/fr1tz">patreon</a>.<br/>
+      <a class="button" href="http://files.wasted.ch/software/terminal-overload/terminal-overload-{{ page.version }}-linux32.tar.gz">GNU/Linux <small>32bit v{{ page.version }}</small></a>
+      <a class="button" href="http://files.wasted.ch/software/terminal-overload/terminal-overload-{{ page.version }}-win32.zip">Windows <small>32bit v{{ page.version }}</small></a>
+      <a class="button" href="https://github.com/fr1tz/terminal-overload/releases">Source <small>+ old versions</small></a>
     </div>
+
+    <div class="installinstructions"><a href="/install">Need help installing?</a></div>
+
   </section>
 
   <section class="news">
+
+    <div class="info1">
+      This project needs your help to keep going.<br> Please consider becoming <a href="/contribute">an active contributor</a> or helping its main developer <em>(and currently only programmer)</em> to return to working full-time on TOL through <a href="https://gratipay.com/fr1tz">gratipay</a> or <a href="http://www.patreon.com/fr1tz">patreon</a>.
+    </div>
 
     <ul class="post-list">
       {% for post in site.posts %}

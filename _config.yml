@@ -8,16 +8,15 @@ url: "http://www.terminal-overload.org" # the base hostname & protocol for your 
 markdown: kramdown
 
 navigation:
- - title: Home
-   url: /index.html
  - title: Player Guide
-   url: /guide/   
+   url: /playerguide
  - title: Community
-   url: /community/       
+   url: /community
  - title: Media
-   url: /media/
- - title: Contributing
-   url: /contributing/   
+   url: /media
+ - title: Contribute
+   url: /contribute
  - title: FAQ
-   url: /faq/   
-   
+   url: /faq
+ - title: Fund
+   url: /fund

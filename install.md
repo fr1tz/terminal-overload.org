@@ -4,9 +4,7 @@ title: Installation Instructions
 permalink: /install/
 ---
 
-<h1 style="width: 100%; text-align: center;">
-Installation Instructions
-</h1>
+#Installation Instructions
 
 ## <a name="windows"></a> Windows
 
@@ -17,7 +15,7 @@ Installation Instructions
 
 ## <a name="linux"></a> GNU/Linux
 
-**NOTE: Requires OpenGL 3.2 or higher!**
+***NOTE: Requires OpenGL 3.2 or higher!***
 
 1. Unpack the .tar.gz archive
 2. Go to the unpacked directory
