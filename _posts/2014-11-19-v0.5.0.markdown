@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Version 0.5.0 released"
+date:   2014-11-19 03:03:03
+categories: release
+---
+
+Version 0.5.0 has been released.
+
+- Add primitive "Team Elimination" game mode + a simple map for use with it.
+- Primitive in-game player list.
+- Slightly improved server browser.
+- Contact with water destroys CATs.
+- Try new sound for x-jump.
+- Use "/tmp/" prefix instead of "[P]" for unauthenticated players.
+- Try to fix issue #30 (Settings don't get saved under linux)
+- Display "DISC TARGET AQUIRED" below disc targets.
+- Change default player name to "user".
+- Lower minimum mouse sensitivity.
+- Various tweaks and improvements
+- Bugfixes
+
